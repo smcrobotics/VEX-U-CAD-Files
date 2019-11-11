@@ -1,0 +1,56 @@
+design ideas
+wiki
+    https://www.vexforum.com/t/wiki/67132/15
+
+intake
+    https://www.youtube.com/watch?v=5-QHo8msaBA
+    intake with no cover - https://www.youtube.com/watch?v=rhCppJ-nLH4
+    intake ideas - https://www.youtube.com/results?search_query=vex+tower+takeover+intake
+    intake with tower placer integrated
+        https://www.vexforum.com/t/1961z-tower-takeover-teaser-mk-iii/64161
+        https://www.vexforum.com/t/physics-of-tilter/65923
+        https://www.vexforum.com/t/we-need-help-newbies/66484/25
+        https://www.vexforum.com/t/lift-ideas-tower-takeover/60864
+        https://www.vexforum.com/t/extended-stacker-help/67305/2
+        https://www.vexforum.com/t/extending-tray-stage-cad-animation-guide/67349
+        https://www.vexforum.com/t/dr4b-rd4b-meaning/41480/2
+
+    one thing to consider with the 1961z design is that there's no cover for the intake - if we get rammed, cubes will go flying
+        https://www.vexforum.com/t/1961z-tower-takeover-teaser-mk-iii/64161/2
+    https://www.youtube.com/watch?v=tZ_cHY0JimE
+
+
+
+learning
+    kepler electronics playlist for all vex stuff (ultimate guide to vex bar lifts): https://www.youtube.com/watch?v=hZUbCSGAy-o&list=PLYZlZ-HVwqm6x9LDTzUWqs0Xf3HwoQksR
+    lifting mechanisms: https://www.vexrobotics.com/vexiq/education/iq-curriculum/mechanisms/lifting-mechanisms
+    intro to mechanisms: https://www.cs.cmu.edu/~rapidproto/mechanisms/tablecontents.html
+    gear ratio: https://www.vexrobotics.com/vexiq/education/iq-curriculum/mechanisms/gear-ratio
+    speed torque and power: https://www.vexrobotics.com/vexiq/education/iq-curriculum/key-concepts/speed-torque-power
+    physics of tilter: https://www.vexforum.com/t/physics-of-tilter/65923
+    vex engineering: https://help.vex.com/category/369-engineering
+    vex wiki: https://www.vexforum.com/t/wiki/67132/2
+    ultimate guide to vex bar lifts: https://www.youtube.com/watch?v=hZUbCSGAy-o&list=PLYZlZ-HVwqm6x9LDTzUWqs0Xf3HwoQksR
+    linear slide lift: https://www.youtube.com/watch?v=GwvHStrcXWU&list=PLYZlZ-HVwqm6x9LDTzUWqs0Xf3HwoQksR&index=3
+    chain bar lifts: https://www.youtube.com/watch?v=LUvIH5k8HWY&list=PLYZlZ-HVwqm6x9LDTzUWqs0Xf3HwoQksR&index=11
+    DR4B lift: https://www.youtube.com/watch?v=L37lHD0oB54&list=PLYZlZ-HVwqm6x9LDTzUWqs0Xf3HwoQksR&index=12
+    tower takeover thoughts: https://www.youtube.com/watch?v=TgmcFV-_7yE&list=PLYZlZ-HVwqm6x9LDTzUWqs0Xf3HwoQksR&index=14
+    completed bot with ability to score and descore from towers: https://www.youtube.com/watch?v=XM1ZVc75LdY&list=PLYZlZ-HVwqm6x9LDTzUWqs0Xf3HwoQksR&index=17
+    holonomic drive assembly and programming: https://www.youtube.com/watch?v=1-Ju_VqYLAU
+    intro to 3D printing: https://markforged.com/learn/3d-printing-introduction/
+    minimum competitive concept: https://www.vexforum.com/t/vex-tower-takeover-minimum-competitive-concept/62395
+
+
+
+FOR LATER
+    X DRIVE CODE - https://trentbot.wordpress.com/2018/02/08/x-drive-maze-test/
+    DR4B - https://www.youtube.com/watch?v=FJ7n5vcpsTw
+
+
+DONE FOR NOW
+wheelbase
+    VEX Holonomic Drive - Assembly and Programming - https://www.youtube.com/watch?v=1-Ju_VqYLAU
+    x-drive design - https://www.youtube.com/watch?v=gJ074NQGQMU
+    VEX omniwheels - https://www.youtube.com/watch?v=VfuA2EqaIso
+    VEX tank drive - https://www.youtube.com/watch?v=zpAnyUXCjjc
+    https://www.vexforum.com/t/what-does-a-modern-vrc-chassis-drivetrain-look-like/36283
