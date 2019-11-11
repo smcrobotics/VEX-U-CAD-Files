@@ -19,6 +19,10 @@ intake
         https://www.vexforum.com/t/1961z-tower-takeover-teaser-mk-iii/64161/2
     https://www.youtube.com/watch?v=tZ_cHY0JimE
 
+    RI3D reveal - https://www.youtube.com/watch?v=QJI29QI5COM&t=13s
+    RI3D writeup - https://docs.google.com/document/d/1HdKqENHWh6WTbPTh926jqvDW3yEPQfKpOuxzz5v5FYk/edit
+    RI3D documentary - https://www.youtube.com/watch?v=BC4ZlIcBB7I
+
 
 
 learning
@@ -45,6 +49,7 @@ learning
 FOR LATER
     X DRIVE CODE - https://trentbot.wordpress.com/2018/02/08/x-drive-maze-test/
     DR4B - https://www.youtube.com/watch?v=FJ7n5vcpsTw
+    kepler dr4b - https://www.youtube.com/watch?v=L37lHD0oB54&t=8s
 
 
 DONE FOR NOW
